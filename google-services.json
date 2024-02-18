@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102423489183",
+    "project_id": "webrtc-f812e",
+    "storage_bucket": "webrtc-f812e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102423489183:android:88a1d596d3c7426e8e50aa",
+        "android_client_info": {
+          "package_name": "com.test.webrtc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0l1a15LDiA8LJPUGRQqwfPaV9OVpW_pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
