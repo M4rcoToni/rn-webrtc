@@ -173,11 +173,13 @@ export default function Page() {
         <TextInput
           placeholder="Offer Description"
           value={offerDescriptionText}
+          onChangeText={setOfferDescriptionText}
           className="absolute top-0 left-0 w-[200px] h-14 bg-white z-10"
         />
         <TextInput
           placeholder="Answer Description"
           value={answerDescription}
+          onChangeText={setAnswerDescription}
           className="absolute top-20 left-0 w-[200px] h-14 bg-white z-10"
         />
         {/*<TouchableOpacity className={styles.button} onPress={getMedia}>
